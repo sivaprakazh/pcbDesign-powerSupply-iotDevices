@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : led0805.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 20 16:38:24 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/JOBS/Surya/symboles
+    Name      = led0805.psm
+    User      = SIVA
+    Machine   = PRAKASH
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
