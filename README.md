@@ -1,9 +1,9 @@
-## PCB DESIGN ON POWER SUPPLY FOR IOT PORTABLE DEVICES
+# PCB DESIGN ON POWER SUPPLY FOR IOT PORTABLE DEVICES
 
   This is the production ready pcb file for power supply iot devices. And this module perfect foe 3.7V, 1A devices.
 Moudule based on the TP4056 charger IC and DW01 Deep Drain Battery Protection IC. And the battery voltage drops is below 2.4V the protection IC will switch the load off to protect the cell, and running at too low of a voltage –also protects against over-voltage and reverse polarity 
 
-# Features
+## Features
     Under Voltage Cut off / Deep Drain Protection
     Over Current Protection
     Adjustable Current Limit through R-Prog
@@ -11,7 +11,7 @@ Moudule based on the TP4056 charger IC and DW01 Deep Drain Battery Protection IC
     Usb Micro Connector (with more commonly available usb cables)
     LED Status Indicator for Charging / Full charge status monitoring
   
-# Technical Specifications
+## Technical Specifications
     Module Name: Rechargeable lithium battery module
     Method: linear charge 1%
     Charging current: 1A Adjustable (Through 1.2k R3 RPROG Resistor)
